@@ -9,5 +9,6 @@
 - ⚡ Fun fact: I do my work deligately and diligently.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Sahibpreet82000)
-![counter](https://[YourEndpoint].m.pipedream.net)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahibpreet82000)
+
 
