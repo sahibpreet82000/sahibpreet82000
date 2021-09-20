@@ -6,7 +6,7 @@
 - 💬 Ask me about web development
 - 📫 How to reach me: Sahibpreet82000@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I do my work deligately and diligently.
+<!-- - ⚡ Fun fact: I do my work deligately and diligently. -->
 ## ✉️ Find me on:
 
 
