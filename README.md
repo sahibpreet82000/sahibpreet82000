@@ -26,9 +26,11 @@
 <img src="https://user-images.githubusercontent.com/65446784/133327647-2ba721b0-5618-4829-b23d-48aa5e587463.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/65446784/133327759-849c5a06-86ea-45b3-86da-a1d425b2f771.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/65446784/133327799-91c86841-b969-4aa4-973c-57ec6c2990c3.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/65446784/134784540-66509a55-4c63-471d-9449-78b4db19c055.jpg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahibpreet82000)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahibpreet82000)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahibpreet82000)
 
 
