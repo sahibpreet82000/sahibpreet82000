@@ -32,3 +32,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahibpreet82000)
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahibpreet82000)](https://git.io/streak-stats)
