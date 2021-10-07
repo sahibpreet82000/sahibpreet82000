@@ -1,12 +1,13 @@
 ### Hi there 👋
 - 📚 I'm currently pursuing B.tech in Computer Science and Engineering.
-- 🔭 I’m currently working on JavaScript and MySql.
+- 🔭 I’m currently working on JavaScript and MySql.                              
 - 🌱 I’m looking forward in learning Data Structures soon.
 - 🤔 I’m looking for help in managing wth backend programs.
 - 💬 Ask me about web development
 - 📫 How to reach me: Sahibpreet82000@gmail.com
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: I do my work deligately and diligently. -->
+
 ## ✉️ Find me on:
 
 <p align="center">
@@ -30,6 +31,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahibpreet82000)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahibpreet82000)
-<img src="https://github.com/sahibpreet82000/sahibpreet82000/blob/master/devcard.svg" width="400" alt="Sahibpreet's Dev Card"/>
+<a href="https://app.daily.dev/Sahibpreet82000"><img src="https://api.daily.dev/devcards/578a8bb3ef1b45ef80b25bb12a54baea.png?r=wvv" width="200" alt="sahib preet singh's Dev Card"/></a>
 
 
