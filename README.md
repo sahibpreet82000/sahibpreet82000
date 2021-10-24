@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📚 I'm currently pursuing B.tech in Computer Science and Engineering.
-- 🔭 I’m currently working on JavaScript and MySql.                              
+- 🔭 I’m currently working on Node.js and MongoDb.                              
 - 🌱 I’m looking forward in learning Data Structures soon.
 - 🤔 I’m looking for help in managing wth backend programs.
 - 💬 Ask me about web development
