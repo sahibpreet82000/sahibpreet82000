@@ -29,4 +29,9 @@
  <img src="https://user-images.githubusercontent.com/65446784/133327799-91c86841-b969-4aa4-973c-57ec6c2990c3.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/65446784/134784585-8f79e3a4-314f-4336-a1cf-d2c77d823a36.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-<a href="https://app.daily.dev/Sahibpreet82000"><img src="https://api.daily.dev/devcards/578a8bb3ef1b45ef80b25bb12a54baea.png?r=wvv" width="200" alt="sahib preet singh's Dev Card"/></a>
+<a href="https://app.daily.dev/Sahibpreet82000"><img src="https://api.daily.dev/devcards/578a8bb3ef1b45ef80b25bb12a54baea.png?r=wvv" width="200" alt="sahib preet singh's Dev Card"/></a> <br>
+<!-- [![Sahibpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahibpreet82000)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahibpreet82000)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahibpreet82000&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+
+
