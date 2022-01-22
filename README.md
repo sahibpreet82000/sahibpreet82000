@@ -2,8 +2,7 @@
 ### Hi there 👋
 - 📚 I'm currently pursuing B.tech in Computer Science and Engineering.
 - 🔭 I’m currently working on Node.js and MongoDb.                              
-- 🌱 I’m looking forward in learning Data Structures soon.
-- 🤔 I’m looking for help in managing wth backend programs.
+- 🌱 I’m looking forward to work in a team project.
 - 💬 Ask me about web development
 - 📫 How to reach me: Sahibpreet82000@gmail.com
 - 😄 Pronouns: he/him
