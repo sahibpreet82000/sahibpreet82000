@@ -32,8 +32,8 @@
   <img src="https://user-images.githubusercontent.com/65446784/154675201-d8527989-ed75-48f4-b083-5e34eeb0d3c2.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-<a href="https://app.daily.dev/Sahibpreet82000"><img src="http://github-readme-streak-stats.herokuapp.com?user=sahibpreet82000&theme=dark&date_format=j%20M%5B%20Y%5D" width="300px">
- <a href="https://app.daily.dev/Sahibpreet82000"><img src="https://github-readme-stats.vercel.app/api?username=sahibpreet82000&show_icons=true&theme=dark&title_color=FFA701" width="300px">
+<a href="https://app.daily.dev/Sahibpreet82000"><img src="http://github-readme-streak-stats.herokuapp.com?user=sahibpreet82000&theme=dark&date_format=j%20M%5B%20Y%5D" width="400px">
+ <a href="https://app.daily.dev/Sahibpreet82000"><img src="https://github-readme-stats.vercel.app/api?username=sahibpreet82000&show_icons=true&theme=dark&title_color=FFA701" width="400px">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahibpreet82000&layout=compact&theme=dark)](https://github.com/sahibpreet82000/github-readme-stats)
 
 
