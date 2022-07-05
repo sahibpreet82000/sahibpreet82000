@@ -1,7 +1,7 @@
 <a href="https://app.daily.dev/Sahibpreet82000"><img src="https://api.daily.dev/devcards/578a8bb3ef1b45ef80b25bb12a54baea.png?r=wvv" width="200" align="right" alt="sahib preet singh's Dev Card"/></a>
 ### Hi there 👋
 - 📚 I'm currently pursuing B.tech in Computer Science and Engineering.
-- 🔭 I’m currently working on DSA.                              
+- 🔭 I’m currently working on Data Structures and algoritms.                              
 - 🌱 I’m looking forward to work in a team project.
 - 💬 Ask me about web development and logic building.
 - 📫 How to reach me: Sahibpreet82000@gmail.com
