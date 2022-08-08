@@ -30,6 +30,8 @@
  <img src="https://user-images.githubusercontent.com/65446784/133327799-91c86841-b969-4aa4-973c-57ec6c2990c3.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/65446784/134784585-8f79e3a4-314f-4336-a1cf-d2c77d823a36.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/65446784/154675201-d8527989-ed75-48f4-b083-5e34eeb0d3c2.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://user-images.githubusercontent.com/65446784/183460354-4d61cac3-6745-43f6-a563-5798ca70e82b.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+      <img src="https://user-images.githubusercontent.com/65446784/183460617-d520fd70-264d-461e-a4b2-f8e467b0b9cf.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <a href="https://app.daily.dev/Sahibpreet82000"><img src="http://github-readme-streak-stats.herokuapp.com?user=sahibpreet82000&theme=dark&date_format=j%20M%5B%20Y%5D" width="400px">
